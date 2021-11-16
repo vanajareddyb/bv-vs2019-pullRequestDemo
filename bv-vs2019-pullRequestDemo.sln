@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bv-vs2019-pullRequestDemo", "bv-vs2019-pullRequestDemo\bv-vs2019-pullRequestDemo.csproj", "{65596228-EA8A-4DCE-8D57-3BBFD038B75F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65596228-EA8A-4DCE-8D57-3BBFD038B75F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65596228-EA8A-4DCE-8D57-3BBFD038B75F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65596228-EA8A-4DCE-8D57-3BBFD038B75F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65596228-EA8A-4DCE-8D57-3BBFD038B75F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E431A6E9-BF8F-4226-9265-D4E6191900FD}
+	EndGlobalSection
+EndGlobal
